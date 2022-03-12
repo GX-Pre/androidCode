@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.open-android:BaseRecyclerAndAdapter:0.5.13@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../soft_install/apache/.gradle/caches/transforms-3/cf4ab6d96f9787e349f10878bb592daa/transformed/jetified-BaseRecyclerAndAdapter-0.5.13/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../soft_install/apache/.gradle/caches/transforms-3/cf4ab6d96f9787e349f10878bb592daa/transformed/jetified-BaseRecyclerAndAdapter-0.5.13/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../soft_install/apache/.gradle/caches/transforms-3/cf4ab6d96f9787e349f10878bb592daa/transformed/jetified-BaseRecyclerAndAdapter-0.5.13/res" />
+      <root url="jar://$PROJECT_DIR$/../../soft_install/apache/.gradle/caches/transforms-3/cf4ab6d96f9787e349f10878bb592daa/transformed/jetified-BaseRecyclerAndAdapter-0.5.13/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../soft_install/apache/.gradle/caches/modules-2/files-2.1/com.github.open-android/BaseRecyclerAndAdapter/0.5.13/85468c992584c1587b92e6bde86757ca5d1996c/BaseRecyclerAndAdapter-0.5.13-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

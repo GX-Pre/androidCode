@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nothing.iml" filepath="$PROJECT_DIR$/.idea/modules/nothing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/nothing.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/nothing.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myalertdialog/nothing.myalertdialog.iml" filepath="$PROJECT_DIR$/.idea/modules/myalertdialog/nothing.myalertdialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mylistview/nothing.mylistview.iml" filepath="$PROJECT_DIR$/.idea/modules/mylistview/nothing.mylistview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mynetchina/nothing.mynetchina.iml" filepath="$PROJECT_DIR$/.idea/modules/mynetchina/nothing.mynetchina.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mynotification/nothing.mynotification.iml" filepath="$PROJECT_DIR$/.idea/modules/mynotification/nothing.mynotification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mypopupwindow/nothing.mypopupwindow.iml" filepath="$PROJECT_DIR$/.idea/modules/mypopupwindow/nothing.mypopupwindow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myrecycleview/nothing.myrecycleview.iml" filepath="$PROJECT_DIR$/.idea/modules/myrecycleview/nothing.myrecycleview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myrelativelayout/nothing.myrelativelayout.iml" filepath="$PROJECT_DIR$/.idea/modules/myrelativelayout/nothing.myrelativelayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mytextview/nothing.mytextview.iml" filepath="$PROJECT_DIR$/.idea/modules/mytextview/nothing.mytextview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mytoolbar/nothing.mytoolbar.iml" filepath="$PROJECT_DIR$/.idea/modules/mytoolbar/nothing.mytoolbar.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.open-android:RetrofitUtils:0.4.13@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c4423302e169b8a9be5a8f3328e689e5/transformed/RetrofitUtils-0.4.13/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/080bfec9672362461769bdda5d78f300/transformed/jetified-RetrofitUtils-0.4.13/res" />
+      <root url="file://$PROJECT_DIR$/../../soft_install/apache/.gradle/caches/transforms-3/080bfec9672362461769bdda5d78f300/transformed/jetified-RetrofitUtils-0.4.13/res" />
+      <root url="jar://$PROJECT_DIR$/../../soft_install/apache/.gradle/caches/transforms-3/080bfec9672362461769bdda5d78f300/transformed/jetified-RetrofitUtils-0.4.13/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../soft_install/apache/.gradle/caches/transforms-3/080bfec9672362461769bdda5d78f300/transformed/jetified-RetrofitUtils-0.4.13/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
